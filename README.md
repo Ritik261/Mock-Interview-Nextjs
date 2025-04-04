@@ -114,7 +114,7 @@ If you find ConfidenceUp helpful, please consider giving us a star on GitHub! It
 
 ## Contact
 
-If you have any questions or feedback, please feel free to reach out to us at [suveen.te1[at]gmail.com](mailto:suveen.te1@gmail.com).
+If you have any questions or feedback, please feel free to reach out to us at [ritiksingh1356[at]gmail.com](mailto:ritiksingh1356@gmail.com).
 
 ## License
 
