@@ -1,19 +1,19 @@
 # Contributing
 
-Thanks for considering contributing to ConfidenceUp!
+Thanks for considering contributing to ConfidenceAI!
 
 ## Opening issues
 
-If you find a bug, please feel free to [open an issue](https://github.com/ConfidenceUp/ConfidenceUp/issues).
+If you find a bug, please feel free to [open an issue](https://github.com/ConfidenceAI/ConfidenceAI/issues).
 
 ## Fixing bugs
 
 Here’s a quick guide:
 
-1. [Fork this repository](https://github.com/ConfidenceUp/ConfidenceUp/fork) and then clone it locally:
+1. [Fork this repository](https://github.com/ConfidenceAI/ConfidenceAI/fork) and then clone it locally:
 
 ```bash
-git clone https://github.com/ConfidenceUp/ConfidenceUp
+git clone https://github.com/ConfidenceAI/ConfidenceAI
 ```
 
 2. Create a topic branch for your changes:
@@ -32,4 +32,4 @@ git push origin fix-for-that-thing
 
 ## Adding new features
 
-Thinking of adding a new feature? [Open an issue](https://github.com/ConfidenceUp/ConfidenceUp/issues) and let’s design it together.
+Thinking of adding a new feature? [Open an issue](https://github.com/ConfidenceAI/ConfidenceAI/issues) and let’s design it together.
