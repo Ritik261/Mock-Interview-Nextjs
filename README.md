@@ -3,17 +3,6 @@
 
 ConfidenceAI is an open source platform for companies to conduct AI powered hiring interviews with their candidates.
 
-<img src="https://github.com/user-attachments/assets/fa92ade1-02ea-4332-b5ed-97056dea01c3" alt="ConfidenceAI Logo" width="800">
-
-<div style="display: flex; flex-direction: row; gap: 20px; margin: 20px 0;">
-  <picture>
-    <img src="https://github.com/user-attachments/assets/91adf737-6f62-4f48-ae68-58855bc38ccf" alt="Description 1" width="400" style="max-width: 100%;">
-  </picture>
-  <picture>
-    <img src="https://github.com/user-attachments/assets/91bbe5d5-1eff-4158-80d9-d98c2a53f59b" alt="Description 2" width="400" style="max-width: 100%;">
-  </picture>
-</div>
-
 ## Key Features
 
 - **🎯 Interview Creation:** Instantly generate tailored interview questions from any job description.
