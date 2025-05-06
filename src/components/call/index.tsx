@@ -563,7 +563,7 @@ function Call({ interview }: InterviewProps) {
           <div className="text-center text-md font-semibold mr-2  ">
             Powered by{" "}
             <span className="font-bold">
-              Confidence<span className="text-indigo-600">Up</span>
+              Confidence<span className="text-indigo-600">AI</span>
             </span>
           </div>
           <ArrowUpRightSquareIcon className="h-[1.5rem] w-[1.5rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0 text-indigo-500 " />
