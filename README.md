@@ -2,6 +2,7 @@
 # ConfidenceAI - AI-powered voice interviewer for hiring 💼
 
 ConfidenceAI is an open source platform for companies to conduct AI powered hiring interviews with their candidates.
+https://github.com/Ritik261/Mock-Interview-Nextjs/blob/main/lv_0_20250915194714.mp4
 
 ## Key Features
 
